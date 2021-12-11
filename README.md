@@ -17,7 +17,7 @@ the Doge Packer for eXecutables
 Doge-PX usage:
         ./DPX.exe target.exe
 
-sleep for evasion:
+sleep 20s for evasion:
         ./DPX.exe target.exe sleep
         
 ```
