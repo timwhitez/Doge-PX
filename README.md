@@ -38,5 +38,7 @@ https://github.com/akkuman/gSigFlip
 https://github.com/Tylous/Limelighter
 
 
-# 🚀Star Trend
+
+## Stargazers over time
+
 [![Stargazers over time](https://starchart.cc/timwhitez/Doge-PX.svg)](https://starchart.cc/timwhitez/Doge-PX)
