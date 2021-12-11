@@ -12,3 +12,11 @@ sleep for evasion:
         ./DPX.exe target.exe sleep
         
 ```
+
+
+## Reference
+https://github.com/timwhitez/Doge-MemX/
+
+https://github.com/med0x2e/SigFlip
+
+https://github.com/akkuman/gSigFlip
