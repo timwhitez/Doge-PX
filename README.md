@@ -39,6 +39,4 @@ https://github.com/Tylous/Limelighter
 
 
 # 🚀Star Trend
-
-![Stargazers over time](https://starchart.cc/timwhitez/Doge-PX.svg)
-
+[![Stargazers over time](https://starchart.cc/timwhitez/Doge-PX.svg)](https://starchart.cc/timwhitez/Doge-PX)
