@@ -15,7 +15,7 @@ sleep for evasion:
 
 
 ## Reference
-https://github.com/timwhitez/Doge-MemX/
+https://github.com/timwhitez/Doge-MemX
 
 https://github.com/med0x2e/SigFlip
 
